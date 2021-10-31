@@ -63,6 +63,7 @@
     <Translation ID="BOB_CFG_SSC" String="Копировать выбранную конфигурацию" />
     <Translation ID="BOB_CFG_SEC" String="Новая пустая конфигурация" />
     <Translation ID="BOB_CFG_DEL" String="Удалить выбранную конфигурацию" />
+    <Translation ID="BOB_CFG_LAA" String="Загрузить и применить выбранную конфигурацию" />
     <Translation ID="BOB_OPT_GEN" String="Общие настройки" />
     <Translation ID="BOB_OPT_CFG" String="Конфигурации" />
     <Translation ID="BOB_OPT_RUI" String="Разрушенная текстура" />
